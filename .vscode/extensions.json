@@ -1,0 +1,9 @@
+{
+  "recommendations":[
+    "mikestead.dotenv",
+    "esbenp.prettier-vscode",
+    "redhat.vscode-yaml",
+    "PKief.material-icon-theme",
+    "shd101wyy.markdown-preview-enhanced",
+  ]
+}

@@ -1,0 +1,13 @@
+openapi: 3.0.0
+info:
+  title: vben-mock-instead API
+  description: The APIs of vben-mock-instead
+  version: 0.0.1
+servers:
+  - url: http://localhost:3000
+    description: dev server
+tags:
+  - name: Authentication
+    description: 身份验证相关接口
+  - name: User
+    description: 用户相关接口

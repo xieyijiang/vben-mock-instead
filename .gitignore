@@ -1,0 +1,40 @@
+# Dependencies
+node_modules
+npm-debug.log*
+package-lock.json
+
+# Environment files
+.env.local
+.env.*.local
+.env.development
+.env.production
+
+# Build & Test
+dist
+build
+out
+coverage
+.nyc_output
+
+# IDE & Editor
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+*.pem
+
+# Logs & Cache
+logs
+*.log
+.cache
+.temp
+.eslintcache
+
+# Local files
+*.local
+._*
